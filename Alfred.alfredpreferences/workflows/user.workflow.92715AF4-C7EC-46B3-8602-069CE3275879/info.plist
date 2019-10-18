@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.vitorgalvao.alfred.pinplus</string>
+	<key>connections</key>
+	<dict>
+		<key>03D48D68-93A6-49C2-B1BD-B8BF3DDE698F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>955157E7-B3A9-4312-8A9E-F5AEE7D2CB6A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>06DF291B-32C4-425D-A58F-0A1E2678206E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0428362E-5C9C-4EB0-B5B2-470ABC9845E7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2B67AFF0-0412-4E9B-88CE-ADF345434F52</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A0E45AB0-74B7-4C7E-8A56-B6B4E0D84722</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>F3FE5E70-3869-4937-9ECB-ADAED3106B1F</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>Download video to watch later</string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>03D48D68-93A6-49C2-B1BD-B8BF3DDE698F</string>
+				<key>modifiers</key>
+				<integer>131072</integer>
+				<key>modifiersubtext</key>
+				<string>Open bookmark on Pinboard’s site</string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>51173530-985F-468F-90DC-B37CC651F01A</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>Copy link to clipboard</string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+		<key>312A5A83-445F-49A9-91E3-5E65184C33B9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>348262A6-0298-49B4-A582-AF48C527E471</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>348262A6-0298-49B4-A582-AF48C527E471</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9A055C32-C5CF-4D41-B7F2-366BC26FCE51</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4FB6B196-D4A2-431D-B33C-E1DFB0A5A57F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0DF168C1-F23D-42AE-937F-D625877ED05D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>51173530-985F-468F-90DC-B37CC651F01A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>06DF291B-32C4-425D-A58F-0A1E2678206E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>65AAB448-3013-42AB-A59B-A886A23A7B3C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F3FE5E70-3869-4937-9ECB-ADAED3106B1F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>71E82EE1-88EE-483E-A952-AC7AB8F4EDDF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A5E2E99E-54FF-47D3-BCCE-603E4E2D5424</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7801D860-3678-41BF-8A9F-B294A3AA31CD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9A055C32-C5CF-4D41-B7F2-366BC26FCE51</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>955157E7-B3A9-4312-8A9E-F5AEE7D2CB6A</key>
+		<array/>
+		<key>A0E45AB0-74B7-4C7E-8A56-B6B4E0D84722</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9A055C32-C5CF-4D41-B7F2-366BC26FCE51</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>06DF291B-32C4-425D-A58F-0A1E2678206E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A47E38E8-87FB-42B7-A966-4CFC5B0798FF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7801D860-3678-41BF-8A9F-B294A3AA31CD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AC4A2ACA-CEFF-4C48-9B37-A39B17B934C4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>51173530-985F-468F-90DC-B37CC651F01A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BBA7D5B8-BDF1-4669-B928-461708E18DDF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A0E45AB0-74B7-4C7E-8A56-B6B4E0D84722</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D6663B13-40B4-4E96-BC66-4AB752C0CAF3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>16CA0D08-3EB2-4A69-8EA3-7F2A2FAA2A5C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EF339515-CFD8-47BF-B208-FF9DCA32A2C1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E3D8770A-3517-4F4F-854A-7E88C2FA4E37</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F19E7C66-0D3E-4ADE-A607-590AD4B34BFA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>23352050-CC5C-4680-8243-005771354087</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F3FE5E70-3869-4937-9ECB-ADAED3106B1F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>06DF291B-32C4-425D-A58F-0A1E2678206E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FA9C9F80-EFDB-4A12-AA7A-DC5D0F76E557</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BBA7D5B8-BDF1-4669-B928-461708E18DDF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>65AAB448-3013-42AB-A59B-A886A23A7B3C</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>Download video to watch later</string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>03D48D68-93A6-49C2-B1BD-B8BF3DDE698F</string>
+				<key>modifiers</key>
+				<integer>131072</integer>
+				<key>modifiersubtext</key>
+				<string>Open bookmark on Pinboard’s site</string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>AC4A2ACA-CEFF-4C48-9B37-A39B17B934C4</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>Copy link to clipboard</string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Vítor Galvão</string>
+	<key>description</key>
+	<string>Interact with your Pinboard bookmarks</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>PinPlus</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string># THESE VARIABLES MUST BE SET. SEE THE ONEUPDATER README FOR AN EXPLANATION OF EACH.
+readonly remote_info_plist="https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/${alfred_workflow_name}/source/info.plist"
+readonly workflow_url="https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/${alfred_workflow_name}/${alfred_workflow_name}.alfredworkflow"
+readonly download_type='direct'
+readonly frequency_check='4'
+
+# FROM HERE ON, CODE SHOULD BE LEFT UNTOUCHED!
+function abort {
+  echo "${1}" &gt;&amp;2
+  exit 1
+}
+
+function url_exists {
+  curl --silent --location --output /dev/null --fail --range 0-0 "${1}"
+}
+
+function notification {
+  readonly local notificator="$(find . -type d -name 'Notificator.app')"
+  if [[ -n "${notificator}" ]]; then
+    "${notificator}/Contents/Resources/Scripts/notificator" --message "${1}" --title "${alfred_workflow_name}" --subtitle 'A new version is available'
+    return
+  fi
+
+  readonly local terminal_notifier="$(find . -type f -name 'terminal-notifier')"
+  if [[ -n "${terminal_notifier}" ]]; then
+    "${terminal_notifier}" -title "${alfred_workflow_name}" -subtitle 'A new version is available' -message "${1}"
+    return
+  fi
+
+  osascript -e "display notification \"${1}\" with title \"${alfred_workflow_name}\" subtitle \"A new version is available\""
+}
+
+# Local sanity checks
+readonly local_info_plist='info.plist'
+readonly local_version="$(/usr/libexec/PlistBuddy -c 'print version' "${local_info_plist}")"
+
+[[ -n "${local_version}" ]] || abort 'You need to set a workflow version in the configuration sheet.'
+[[ "${download_type}" =~ ^(direct|page|github_release)$ ]] || abort "'download_type' (${download_type}) needs to be one of 'direct', 'page', or 'github_release'."
+[[ "${frequency_check}" =~ ^[0-9]+$ ]] || abort "'frequency_check' (${frequency_check}) needs to be a number."
+
+# Check for updates
+if [[ $(find "${local_info_plist}" -mtime +"${frequency_check}"d) ]]; then
+  if ! url_exists "${remote_info_plist}"; then abort "'remote_info_plist' (${remote_info_plist}) appears to not be reachable."; fi # Remote sanity check
+
+  readonly tmp_file="$(mktemp)"
+  curl --silent --location --output "${tmp_file}" "${remote_info_plist}"
+  readonly remote_version="$(/usr/libexec/PlistBuddy -c 'print version' "${tmp_file}")"
+
+  if [[ "${local_version}" == "${remote_version}" ]]; then
+    touch "${local_info_plist}" # Reset timer by touching local file
+    exit 0
+  fi
+
+  if [[ "${download_type}" == 'page' ]]; then
+    notification 'Opening download page…'
+    open "${workflow_url}"
+    exit 0
+  fi
+
+  download_url="$([[ "${download_type}" == 'github_release' ]] &amp;&amp; curl --silent "https://api.github.com/repos/${workflow_url}/releases/latest" | grep 'browser_download_url' | head -1 | sed -E 's/.*browser_download_url": "(.*)"/\1/' || echo "${workflow_url}")"
+
+  if url_exists "${download_url}"; then
+    notification 'Downloading and installing…'
+    curl --silent --location --output "${HOME}/Downloads/${alfred_workflow_name}.alfredworkflow" "${download_url}"
+    open "${HOME}/Downloads/${alfred_workflow_name}.alfredworkflow"
+  else
+    abort "'workflow_url' (${download_url}) appears to not be reachable."
+  fi
+fi</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>9A055C32-C5CF-4D41-B7F2-366BC26FCE51</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>pa</string>
+				<key>subtext</key>
+				<string>Call a GUI to add a bookmark</string>
+				<key>text</key>
+				<string>Add a bookmark</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>A47E38E8-87FB-42B7-A966-4CFC5B0798FF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>require "#{Dir.pwd}/pinplus.rb"
+
+open_gui</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>7801D860-3678-41BF-8A9F-B294A3AA31CD</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>require "#{Dir.pwd}/pinplus.rb"
+
+add_unread</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>348262A6-0298-49B4-A582-AF48C527E471</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>312A5A83-445F-49A9-91E3-5E65184C33B9</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>A0E45AB0-74B7-4C7E-8A56-B6B4E0D84722</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>2</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>pin</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Fetching bookmarks…</string>
+				<key>script</key>
+				<string>require "#{Dir.pwd}/pinplus.rb"
+
+show_bookmarks(All_bookmarks_json)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Show all Pinboard bookmarks</string>
+				<key>type</key>
+				<integer>2</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>2B67AFF0-0412-4E9B-88CE-ADF345434F52</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>2</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>pun</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Fetching bookmarks…</string>
+				<key>script</key>
+				<string>require "#{Dir.pwd}/pinplus.rb"
+
+show_bookmarks(Unread_bookmarks_json)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Show unread Pinboard bookmarks</string>
+				<key>type</key>
+				<integer>2</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>FA9C9F80-EFDB-4A12-AA7A-DC5D0F76E557</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>require "#{Dir.pwd}/pinplus.rb"
+
+action_unread(ENV['unread_action'], ARGV[0])</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>0428362E-5C9C-4EB0-B5B2-470ABC9845E7</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{var:is_unread}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>true</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>06DF291B-32C4-425D-A58F-0A1E2678206E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>is_unread</key>
+					<string>true</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>BBA7D5B8-BDF1-4669-B928-461708E18DDF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>if ! osascript -e "tell application id \"com.runningwithcrayons.Alfred\" to run trigger \"new\" in workflow \"com.vitorgalvao.alfred.downvid\" with argument \"${1} video watchlist_true playlist_false\""; then
+  if osascript -e "display dialog \"The DownVid Workflow is required to download videos.\" with title \"DownVid is missing\" with icon POSIX file \"${PWD}/icon.png\" buttons { \"Cancel\", \"Download DownVid\" } default button \"Download DownVid\""; then
+    open 'https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/DownVid/DownVid.alfredworkflow'
+  fi
+fi
+
+echo "${1}" # To pass the URL to be acted upon, if unread bookmark</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>F3FE5E70-3869-4937-9ECB-ADAED3106B1F</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>is_unread</key>
+					<string>true</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>65AAB448-3013-42AB-A59B-A886A23A7B3C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>955157E7-B3A9-4312-8A9E-F5AEE7D2CB6A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>require "#{Dir.pwd}/pinplus.rb"
+
+search_in_website(ARGV[0])</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>03D48D68-93A6-49C2-B1BD-B8BF3DDE698F</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>51173530-985F-468F-90DC-B37CC651F01A</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>is_unread</key>
+					<string>true</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>AC4A2ACA-CEFF-4C48-9B37-A39B17B934C4</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>require "#{Dir.pwd}/pinplus.rb"
+
+fetch_bookmarks(true)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>0DF168C1-F23D-42AE-937F-D625877ED05D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>:pinplusforceupdate</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Force update of Pinboard bookmarks</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>4FB6B196-D4A2-431D-B33C-E1DFB0A5A57F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>:pinplusresetapitoken</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Reset your Pinboard API token</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>F19E7C66-0D3E-4ADE-A607-590AD4B34BFA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>require "#{Dir.pwd}/pinplus.rb"
+
+reset_pinboard_token</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>23352050-CC5C-4680-8243-005771354087</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>function notification {
+  ./Notificator.app/Contents/Resources/Scripts/notificator --message "${1}" --title "${alfred_workflow_name}"
+}
+
+function get_detail {
+  local detail repo
+
+  repo="${1}"
+  detail="${2}"
+
+  curl --silent "https://api.github.com/repos/${repo}/releases/latest" | grep "${detail}" | head -1 | awk '{print $2}' | tr -d \",
+}
+
+readonly app_repo='vitorgalvao/pinplus'
+readonly app_name='PinPlus'
+readonly dest_dir='/Applications'
+readonly app_dest="${dest_dir}/${app_name}.app"
+
+readonly upstream_version="$(get_detail "${app_repo}" 'tag_name')"
+readonly local_version="$(mdls -name kMDItemVersion -raw "${app_dest}")"
+
+if [[ "${upstream_version}" == "${local_version}" ]]; then
+  notification "${app_name} app is already at latest version"
+  exit 0
+fi
+
+notification "Downloading ${app_name} ${upstream_version}…"
+readonly url="$(get_detail "${app_repo}" 'browser_download_url')"
+
+if curl --silent --location "${url}" | ditto -xk - "${dest_dir}"; then
+  notification "Updated ${app_name} app to ${upstream_version}"
+else
+  notification "Failed to update ${app_name} app"
+fi</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>16CA0D08-3EB2-4A69-8EA3-7F2A2FAA2A5C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>:pinplusupdateapp</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Get the latest version of the PinPlus app</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D6663B13-40B4-4E96-BC66-4AB752C0CAF3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>plist_file='com.vitorgalvao.launchd.pinplusfetch.plist'
+launchagents_dir="${HOME}/Library/LaunchAgents"
+installed_plist_file="${launchagents_dir}/${plist_file}"
+[[ -d "${launchagents_dir}" ]] || mkdir -p "${launchagents_dir}"
+
+action="${1}"
+
+function install_agent {
+  cp "${plist_file}" "${installed_plist_file}"
+  launchctl bootstrap "gui/$(id -u "${USER}")" "${installed_plist_file}"
+}
+
+function uninstall_agent {
+  launchctl bootout "gui/$(id -u "${USER}")" "${installed_plist_file}"
+  rm "${installed_plist_file}"
+}
+
+if [[ "${action}" == 'install' ]]; then
+  install_agent
+else
+  uninstall_agent
+fi</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A5E2E99E-54FF-47D3-BCCE-603E4E2D5424</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>:pinpluslaunchd</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Please wait…</string>
+				<key>script</key>
+				<string>plist_file="${HOME}/Library/LaunchAgents/com.vitorgalvao.launchd.pinplusfetch.plist"
+
+if [[ -f "${plist_file}" ]]; then
+  echo '
+    {"items": [
+      {
+        "title": "Remove PinPlus launchd service",
+        "subtitle": "Stop auto fetching every hour",
+	    "arg": "uninstall"
+      }
+    ]}
+  '
+else
+  echo '
+    {"items": [
+      {
+        "title": "Install Pinplus launchd service",
+        "subtitle": "Bookmarks will be fetched every hour",
+        "arg": "install"
+      },
+    ]}
+  '
+fi</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Install/remove Pinplus launchd service</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>71E82EE1-88EE-483E-A952-AC7AB8F4EDDF</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>require "#{Dir.pwd}/pinplus.rb"
+
+fetch_bookmarks</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E3D8770A-3517-4F4F-854A-7E88C2FA4E37</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>fetch_bookmarks</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>EF339515-CFD8-47BF-B208-FF9DCA32A2C1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>Add to and view your Pinboard bookmarks.
+
+`pa` opens Pinboard’s “add bookmark” page in your frontmost browser. You can submit bookmarks with ↵ or dismiss the window with ⎋.
+
+![](https://i.imgur.com/g6wAO6U.png)
+
+If you have the [PinPlus app](https://github.com/vitorgalvao/pinplus) installed (get it with `:pinplusupdateapp`), that opens instead.
+
+![](https://i.imgur.com/0SVjnKs.png)
+
+Configure the `Hotkey Trigger` to add your current browser tab as an unread bookmark.
+
+`pin` and `pun` are similar. The former shows all your bookmarks (type to filter), while the latter shows only the unread ones.
+
+![](https://i.imgur.com/hrxtJ54.png)
+
+In each case:
+
++ ↵ opens the bookmark in your default web browser.
++ ⇧↵ opens the bookmark in Pinboard’s website, so you can edit it at will.
++ ⌥↵ copies the bookmark’s URL to your clipboard.
++ ⌘↵ downloads the video on the page, if any. It requires [DownVid](https://github.com/vitorgalvao/alfred-workflows/tree/master/DownVid) and will automatically add to [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList) if available)
++ `fn` shows the bookmark’s description.
++ ⌃ shows the bookmark’s tags.
+
+Unread bookmarks suffer an extra event when acted upon, depending on the `unread_action` Workflow Environment Variable. `archive` will mark the bookmark as read and `delete` will remove it from your account. Any other value (including none) will leave it untouched.
+
+The `unread_order` Workflow Environment Variable affects the display of `pun`. Valid options are `oldest_first` and `newest_first`, defaulting to the latter.
+
+`:pinpluslaunchd` will install (or later remove, running the same command) a `launchd` service to seamlessly fetch bookmarks every hour.
+
+![](https://i.imgur.com/onOFCVY.png)
+
+Bookmarks are auto-updated in accordance to the requirements of the Pinboard API. `:pinplusforceupdate` will force an update, but should be avoided. The `minutes_between_checks` Workflow Environment Variable defaults to `10`.
+
+![](https://i.imgur.com/Lr0iNij.png)
+
+If you ever need to update your Pinboard API token, call `:pinplusresetapitoken`.
+
+![](https://i.imgur.com/XOHDq0q.png)</string>
+	<key>uidata</key>
+	<dict>
+		<key>03D48D68-93A6-49C2-B1BD-B8BF3DDE698F</key>
+		<dict>
+			<key>note</key>
+			<string>Get URL to search user’s account</string>
+			<key>xpos</key>
+			<integer>450</integer>
+			<key>ypos</key>
+			<integer>800</integer>
+		</dict>
+		<key>0428362E-5C9C-4EB0-B5B2-470ABC9845E7</key>
+		<dict>
+			<key>note</key>
+			<string>Run unread action</string>
+			<key>xpos</key>
+			<integer>770</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+		<key>06DF291B-32C4-425D-A58F-0A1E2678206E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>680</integer>
+			<key>ypos</key>
+			<integer>500</integer>
+		</dict>
+		<key>0DF168C1-F23D-42AE-937F-D625877ED05D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>240</integer>
+			<key>ypos</key>
+			<integer>1100</integer>
+		</dict>
+		<key>16CA0D08-3EB2-4A69-8EA3-7F2A2FAA2A5C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>240</integer>
+			<key>ypos</key>
+			<integer>1360</integer>
+		</dict>
+		<key>23352050-CC5C-4680-8243-005771354087</key>
+		<dict>
+			<key>xpos</key>
+			<integer>240</integer>
+			<key>ypos</key>
+			<integer>1230</integer>
+		</dict>
+		<key>2B67AFF0-0412-4E9B-88CE-ADF345434F52</key>
+		<dict>
+			<key>xpos</key>
+			<integer>20</integer>
+			<key>ypos</key>
+			<integer>340</integer>
+		</dict>
+		<key>312A5A83-445F-49A9-91E3-5E65184C33B9</key>
+		<dict>
+			<key>xpos</key>
+			<integer>20</integer>
+			<key>ypos</key>
+			<integer>180</integer>
+		</dict>
+		<key>348262A6-0298-49B4-A582-AF48C527E471</key>
+		<dict>
+			<key>note</key>
+			<string>Save bookmark as unread</string>
+			<key>xpos</key>
+			<integer>240</integer>
+			<key>ypos</key>
+			<integer>180</integer>
+		</dict>
+		<key>4FB6B196-D4A2-431D-B33C-E1DFB0A5A57F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>20</integer>
+			<key>ypos</key>
+			<integer>1100</integer>
+		</dict>
+		<key>51173530-985F-468F-90DC-B37CC651F01A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>450</integer>
+			<key>ypos</key>
+			<integer>970</integer>
+		</dict>
+		<key>65AAB448-3013-42AB-A59B-A886A23A7B3C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>360</integer>
+			<key>ypos</key>
+			<integer>660</integer>
+		</dict>
+		<key>71E82EE1-88EE-483E-A952-AC7AB8F4EDDF</key>
+		<dict>
+			<key>xpos</key>
+			<integer>20</integer>
+			<key>ypos</key>
+			<integer>1490</integer>
+		</dict>
+		<key>7801D860-3678-41BF-8A9F-B294A3AA31CD</key>
+		<dict>
+			<key>note</key>
+			<string>Open GUI to add bookmark</string>
+			<key>xpos</key>
+			<integer>240</integer>
+			<key>ypos</key>
+			<integer>20</integer>
+		</dict>
+		<key>955157E7-B3A9-4312-8A9E-F5AEE7D2CB6A</key>
+		<dict>
+			<key>note</key>
+			<string>Open bookmark on Pinboard’s site</string>
+			<key>xpos</key>
+			<integer>660</integer>
+			<key>ypos</key>
+			<integer>800</integer>
+		</dict>
+		<key>9A055C32-C5CF-4D41-B7F2-366BC26FCE51</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>note</key>
+			<string>OneUpdater</string>
+			<key>xpos</key>
+			<integer>770</integer>
+			<key>ypos</key>
+			<integer>20</integer>
+		</dict>
+		<key>A0E45AB0-74B7-4C7E-8A56-B6B4E0D84722</key>
+		<dict>
+			<key>xpos</key>
+			<integer>450</integer>
+			<key>ypos</key>
+			<integer>340</integer>
+		</dict>
+		<key>A47E38E8-87FB-42B7-A966-4CFC5B0798FF</key>
+		<dict>
+			<key>xpos</key>
+			<integer>20</integer>
+			<key>ypos</key>
+			<integer>20</integer>
+		</dict>
+		<key>A5E2E99E-54FF-47D3-BCCE-603E4E2D5424</key>
+		<dict>
+			<key>xpos</key>
+			<integer>240</integer>
+			<key>ypos</key>
+			<integer>1490</integer>
+		</dict>
+		<key>AC4A2ACA-CEFF-4C48-9B37-A39B17B934C4</key>
+		<dict>
+			<key>xpos</key>
+			<integer>360</integer>
+			<key>ypos</key>
+			<integer>1000</integer>
+		</dict>
+		<key>BBA7D5B8-BDF1-4669-B928-461708E18DDF</key>
+		<dict>
+			<key>xpos</key>
+			<integer>360</integer>
+			<key>ypos</key>
+			<integer>500</integer>
+		</dict>
+		<key>D6663B13-40B4-4E96-BC66-4AB752C0CAF3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>20</integer>
+			<key>ypos</key>
+			<integer>1360</integer>
+		</dict>
+		<key>E3D8770A-3517-4F4F-854A-7E88C2FA4E37</key>
+		<dict>
+			<key>xpos</key>
+			<integer>240</integer>
+			<key>ypos</key>
+			<integer>1620</integer>
+		</dict>
+		<key>EF339515-CFD8-47BF-B208-FF9DCA32A2C1</key>
+		<dict>
+			<key>xpos</key>
+			<integer>20</integer>
+			<key>ypos</key>
+			<integer>1620</integer>
+		</dict>
+		<key>F19E7C66-0D3E-4ADE-A607-590AD4B34BFA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>20</integer>
+			<key>ypos</key>
+			<integer>1230</integer>
+		</dict>
+		<key>F3FE5E70-3869-4937-9ECB-ADAED3106B1F</key>
+		<dict>
+			<key>note</key>
+			<string>Use DownVid and WatchList to get video</string>
+			<key>xpos</key>
+			<integer>450</integer>
+			<key>ypos</key>
+			<integer>630</integer>
+		</dict>
+		<key>FA9C9F80-EFDB-4A12-AA7A-DC5D0F76E557</key>
+		<dict>
+			<key>xpos</key>
+			<integer>20</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+	</dict>
+	<key>variables</key>
+	<dict>
+		<key>minutes_between_checks</key>
+		<string>10</string>
+		<key>unread_action</key>
+		<string></string>
+		<key>unread_order</key>
+		<string></string>
+	</dict>
+	<key>variablesdontexport</key>
+	<array>
+		<string>unread_action</string>
+		<string>unread_order</string>
+	</array>
+	<key>version</key>
+	<string>1.6.0</string>
+	<key>webaddress</key>
+	<string>http://vitorgalvao.com/</string>
+</dict>
+</plist>
