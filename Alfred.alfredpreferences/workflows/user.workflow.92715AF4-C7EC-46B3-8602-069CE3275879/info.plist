@@ -331,7 +331,7 @@
 	<key>description</key>
 	<string>Interact with your Pinboard bookmarks</string>
 	<key>disabled</key>
-	<false/>
+	<true/>
 	<key>name</key>
 	<string>PinPlus</string>
 	<key>objects</key>
@@ -509,6 +509,10 @@ add_unread</string>
 				<false/>
 				<key>focusedappvariablename</key>
 				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
