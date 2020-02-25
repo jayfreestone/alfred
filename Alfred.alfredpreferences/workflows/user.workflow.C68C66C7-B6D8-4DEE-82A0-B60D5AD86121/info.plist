@@ -126,7 +126,7 @@
 	<key>description</key>
 	<string>A set of commands to control Google Chrome</string>
 	<key>disabled</key>
-	<true/>
+	<false/>
 	<key>name</key>
 	<string>Chrome Control</string>
 	<key>objects</key>
